@@ -20,9 +20,8 @@ A production-ready ONNX model for face liveness detection using Vision Transform
 - [Model Metadata](#model-metadata)
 - [Preprocessing Configuration](#preprocessing-configuration)
 - [Multi-Language Implementation](#multi-language-examples)
-- [Performance](#performance)
-- [Contributing](#contributing)
-- [License](#license)
+- [Citation](#citation)
+
 
 ## Overview
 
