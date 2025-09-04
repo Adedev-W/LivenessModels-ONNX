@@ -1,4 +1,4 @@
-```java
+
 import ai.onnxruntime.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
