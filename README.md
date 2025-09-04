@@ -52,10 +52,10 @@ This repository provides a production-ready ONNX model for face liveness detecti
 | **Input Size** | 224 x 224 x 3 |
 | **Output Classes** | 2 (real, spoof) |
 | **Model Format** | ONNX |
-| **Model Size** | ~85 MB |
+| **Model Size** | 327,5 MB |
 | **Precision** | FP32 |
 | **Framework** | PyTorch to ONNX |
 
 ### Model Download
 
-Download the pretrained model from Google Drive:
+Download the pretrained model from Google Drive:[![Model Size](https://img.shields.io/badge/Click-here-blue?style=flat-square)](https://drive.google.com/file/d/1V71oWHVlj3_umCgOpAsnrEbVHdVW0rZP/view)
