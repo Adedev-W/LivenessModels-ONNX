@@ -2,7 +2,7 @@
 This repository contains a pretrained ONNX model for easy integration into your projects. ONNX (Open Neural Network Exchange) provides interoperability between different deep learning frameworks, making this model portable and production-ready.
 
 ## Load Metatag
-```
+```python
 import onnx
 #Load ONNX model
 model = onnx.load("liveness_vit_with_meta.onnx")
@@ -13,8 +13,9 @@ for prop in model.metadata_props:
 
 ```
 
-`:Output`
-```
+`python
+:Output`
+```cpp
 Model Metadata:
 id2label: {"0": "real", "1": "spoof"}
 label2id: {"real": 0, "spoof": 1}
