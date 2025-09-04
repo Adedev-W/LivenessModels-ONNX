@@ -38,7 +38,7 @@ This repository provides a production-ready ONNX model for face liveness detecti
 ### Key Features
 
 - **Cross-platform compatibility**: Runs on Windows, macOS, and Linux
-- **Multi-language support**: Python, JavaScript, C#, Java, and C++
+- **Multi-language support**: Python, C#, Java, and C++
 - **Production-ready**: Optimized ONNX format for efficient inference
 - **Easy integration**: Simple API for quick deployment
 - **Real-time capable**: Suitable for real-time applications
@@ -59,3 +59,37 @@ This repository provides a production-ready ONNX model for face liveness detecti
 ### Model Download
 
 Download the pretrained model from Google Drive:[![Model Size](https://img.shields.io/badge/Click-here-blue?style=flat-square)](https://drive.google.com/file/d/1V71oWHVlj3_umCgOpAsnrEbVHdVW0rZP/view)
+
+
+
+
+
+
+## Citation
+
+If you use this model in your research or commercial applications:
+
+```bibtex
+@misc{liveness-models-onnx-2024,
+  title={LivenessModels-ONNX: Production-Ready Face Liveness Detection},
+  author={Adedev-W and Contributors},
+  year={2024},
+  publisher={GitHub},
+  journal={GitHub Repository},
+  howpublished={\url{https://github.com/Adedev-W/LivenessModels-ONNX}},
+  note={Vision Transformer-based ONNX model for cross-platform deployment}
+}
+```
+
+
+## Acknowledgments
+
+- **ONNX Community**: For the excellent cross-platform inference framework
+- **Vision Transformer Authors**: For the transformer architecture innovation
+- **PyTorch Team**: For the original model training framework  
+- **OpenCV Contributors**: For comprehensive image processing tools
+- **Community Contributors**: For testing, feedback, and improvements
+
+---
+
+**Built for production deployment across multiple platforms and programming languages**
